@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "OXnc67dhBkyD4yNGAn4wRgYpazxGjZZsb6cUh5s4zlBb6sKhyuSYTkI7gFMn5vED02nAEghwMm5d8jqwFd2Wog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Szymon\\Desktop\\EyeTracking\\EyeTracking\\EyeTracking.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Szymon\\.nuget\\packages\\aforge\\2.2.5\\aforge.2.2.5.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\aforge.imaging\\2.2.5\\aforge.imaging.2.2.5.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\aforge.math\\2.2.5\\aforge.math.2.2.5.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\aforge.video\\2.2.5\\aforge.video.2.2.5.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\aforge.video.directshow\\2.2.5\\aforge.video.directshow.2.2.5.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\emgu.cv\\4.5.4.4788\\emgu.cv.4.5.4.4788.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\emgu.cv.bitmap\\4.5.4.4788\\emgu.cv.bitmap.4.5.4.4788.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\emgu.cv.runtime.windows\\4.5.4.4788\\emgu.cv.runtime.windows.4.5.4.4788.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\emgu.cv.ui\\4.5.4.4788\\emgu.cv.ui.4.5.4.4788.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x64\\19.29.30136\\emgu.runtime.windows.msvc.rt.x64.19.29.30136.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\emgu.runtime.windows.msvc.rt.x86\\19.29.30136\\emgu.runtime.windows.msvc.rt.x86.19.29.30136.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\system.runtime\\4.3.1\\system.runtime.4.3.1.nupkg.sha512",
+    "C:\\Users\\Szymon\\.nuget\\packages\\system.runtime.interopservices.runtimeinformation\\4.3.0\\system.runtime.interopservices.runtimeinformation.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
